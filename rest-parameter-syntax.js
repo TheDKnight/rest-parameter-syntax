@@ -26,3 +26,8 @@ const sumRest = (a,b,c, ...rest) => {
 
 let sum3 = sumRest(1,2,3,4,5,6);
 console.log(sum3);
+
+
+
+
+
